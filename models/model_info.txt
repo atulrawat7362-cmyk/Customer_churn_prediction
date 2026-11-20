@@ -1,0 +1,2 @@
+Selected model: Logistic Regression
+Test recall: 0.7834
